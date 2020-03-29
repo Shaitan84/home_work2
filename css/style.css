@@ -1,0 +1,54 @@
+body {
+    font-family: "myriad-pro", "Arial", sans-serif;
+    color: #626262;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.page-header li {
+    list-style: none;
+}
+
+.site-navigation a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000000;
+    line-height: 17px;
+}
+
+.features li {
+    list-style: none;
+}
+
+.features-title-more {
+    color: #626262;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.features-title {
+    color: #b4ad9e;
+    line-height: 17px;
+    text-transform: uppercase;
+}
+
+.features-title-more-about {
+    line-height: 24px;
+    color: #626262;
+}
+
+.load-more {
+    font-size: 20px;
+    line-height: 24px;
+    color: #626262;
+    width: 163px;
+    height: 60px;
+    background-color: #fff;
+    border: 1px solid #000;
+
+}
+
+.load-more a {
+    text-decoration: none;
+    color: #626262;
+}
